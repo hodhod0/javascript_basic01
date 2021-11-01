@@ -6,5 +6,5 @@ var city = document.getElementById("city");
 btn.addEventListener("click",(e)=>{
 
     e.preventDefault();
-     alert(`Hello, ${namee.value}  ${surName.value} From: ${city.value}`)
+     alert(`Hello, ${namee.value} ${surName.value} From: ${city.value}`)
 });
